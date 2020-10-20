@@ -1,3 +1,4 @@
 I enjoy watching the plants change with the seasons on the levee.  I put together this list to help me identify some and found that other people were interested too.  The sources for the lists are [Montz, G., N. (1972). "A Seasonal Study of the Vegetation on Levees." Castanea 37(2): 140-146.](www.jstor.org/stable/4032463) and a list from [Dr. Emily Farrer at Tulane University](https://emilyfarrer.wordpress.com/).
 
-If you notice any misidentifications, or would like to add some plants, you can let me know by [submitting an issue on my github page](https://github.com/sformel/levee_plants/issues), where this is hosted.
+This is still very much in progress.  I hope to get links to photos and list common names when I get some time.  If you notice any misidentifications, or would like to add some plants, you can let me know by [submitting an issue on my github page](https://github.com/sformel/levee_plants/issues), where this is hosted.
+
